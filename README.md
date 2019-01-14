@@ -22,7 +22,7 @@
 Once steps done from [privateaser](https://github.com/92bondstreet/privateaser) repository, you are able to pay each actors according
 
 * Booking properties (time spent, people, deductible option...)
-* Bars properties (price by hour, by people)
+* Bars properties (price by hour, by number of people)
 
 ## 🎯 Objectives
 
@@ -30,7 +30,7 @@ Once steps done from [privateaser](https://github.com/92bondstreet/privateaser) 
 
 ### 🏃‍♀️ Steps to do
 
-* Help users to understand your page event they don’t know anything about your site
+* Help users to understand your page even if they don’t know anything about your site
 * Help users to compute the invoices in a clear and efficient manner.
 * Help users to be clear about which action to take in a easy manner.
 

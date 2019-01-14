@@ -1,0 +1,13 @@
+body {
+  background-color: #002b36;
+}
+
+.card {
+  background-color: #073642;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h1 {
+  color: #eee8d5;
+}
